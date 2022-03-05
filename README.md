@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AakashKathait
 - 👀 I’m interested in making applications
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Data-Structures and Algorithms
 - 📫 How to reach me: aakashkathait@outlook.com
 
 <!---
