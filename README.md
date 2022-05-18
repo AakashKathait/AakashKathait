@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AakashKathait
-- 👀 I’m interested in making applications
+- 👀 I’m interested in making internet look prettier and perform better
 - 🌱 I’m currently learning Data-Structures and Algorithms
 - 📫 How to reach me: aakashkathait@outlook.com
 
